@@ -134,6 +134,20 @@ export default {
                             }
                         ],
                     },
+                    {
+                        title: '文档',
+                        children: [
+                            {
+                                title: "过滤器",
+                                children: [
+                                    {
+                                        title: "泛化调用",
+                                        link: '/zh-cn/docs/documentation/filter/generic_invocation/doc.html'
+                                    }
+                                ]
+                            }
+                        ]
+                    }
                 ]
             },
             {
